@@ -1,6 +1,7 @@
 ## HackerRank
 
 Hackerrank has various daily challenges for developers. 
+
 This repository has my Python codes from two of them:
 
 ### Challenge 1
