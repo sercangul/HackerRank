@@ -2,7 +2,7 @@
 
 Hackerrank has various daily challenges for developers. 
 
-This repository has my Python codes from two of them:
+This repository has my Python scripts from two of them:
 
 ### Challenge 1
 
